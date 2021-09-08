@@ -1,4 +1,4 @@
-### Olá eu sou o Felipi Thiesen Tidra
+### Olá, eu sou o Felipi Thiesen Tidra
 
 - 🔭 Hoje trabalho com front-end e back-end;
 - 🌱 Estudando Javascript, cursando na faculdade de ADS;
