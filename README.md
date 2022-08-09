@@ -1,7 +1,7 @@
 ### Olá, eu sou o Felipi Thiesen Tidra
 
 - 🔭 Hoje trabalho como Full-Stack;
-- 🌱 Estudando Javascript(React.Js,React Native e Node.Js), cursando faculdade de ADS;
+- 🌱 Estudando Javascript(Next.Js, React.Js,React Native e Node.Js), cursando faculdade de ADS;
  
  ##
  
