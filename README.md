@@ -50,6 +50,7 @@
     <a  target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a> 
     <a href = "mailto:felipiths58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/felipithstdr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+</div>
+<div align="center"><br>
     ![Snake animation](https://github.com/Felipithstdr/felipithstdr/blob/output/github-contribution-grid-snake.svg)
 </div>
