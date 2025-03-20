@@ -1,7 +1,7 @@
 ### Olá, eu sou o Felipi Thiesen Tidra
 
 - 🔭 Hoje trabalho como Full-Stack;
-- 🌱 Estudando Javascript(Next.Js, React.Js,React Native e Node.Js);
+- 🌱 Estudando Typescript(Next.Js, React.Js,React Native e Node.Js);
  
  ##
  
@@ -12,19 +12,18 @@
 </div>
 <div style="display: inline_block"><br>
     <h2>Linguagens de programação e seus frameworks:</h2>
+     <img align="center" alt="Fel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img align="center" alt="Fel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Fel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Fel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Fel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
     <img align="center" alt="Fel-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Fel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Fel-Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
-    <img align="center" alt="Fel-Ex" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">    
-    <img align="center" alt="Fel-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
-    <img align="center" alt="Fel-Zend" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain.svg">
+    <img align="center" alt="Fel-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
 <div style="display: inline_block"><br>
     <h2>Linguagem de estilo e seus Frameworks:</h2>
+     <img align="center" alt="Fel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
     <img align="center" alt="Fel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Fel-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img align="center" alt="Fel-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
@@ -39,6 +38,7 @@
 </div>
 <div style="display: inline_block"><br>
     <h2>Extras:</h2>
+ <img align="center" alt="Fel-AndroidStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
     <img align="center" alt="Fel-AndroidStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
     <img align="center" alt="Fel-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
     <img align="center" alt="Fel-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
